@@ -1,7 +1,5 @@
 # family-invite-2
 
-# family-invite-2
-
 ## 🎯 What is this?
 
 `family-invite-2` is a small personal project I built to create a clean, simple, and responsive family-invite page. It’s meant for events like family gatherings, weddings, or any celebration where sharing a nice-looking, easy-to-access invitation makes things smoother.  
